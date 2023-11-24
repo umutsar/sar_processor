@@ -1,5 +1,7 @@
 # sar_processor
 Turn off or on unused processor cores.
+
+Be careful while using.
 # linux commmands
   apt get update -y && apt get upgrade -y
   
