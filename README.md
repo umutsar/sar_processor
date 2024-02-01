@@ -1,16 +1,16 @@
-# sar_processor
+# sar_processor for linux systems
 Turn off or on unused processor cores.
 
 Be careful while using.
 # linux commmands
-  <code> apt get update -y && apt get upgrade -y </code>
+  <code>apt get update -y && apt get upgrade -y</code>
   
-  apt install git
+  <code>apt install git</code>
   
-  apt install python
+  <code>apt install python</code>
   
-  git clone https://github.com/umutsar/sar_processor.git
+  <code>git clone https://github.com/umutsar/sar_processor.git</code>
   
-  ls
+  <code>ls</code>
   
-  python3 sar_processor.py
+  <code>python3 sar_processor.py</code>
